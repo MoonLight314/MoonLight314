@@ -15,16 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-1. About Me
+### 1. About Me
 
-2. Skills
+<br>
 
-3. Interests
+### 2. Skills
 
-4. Cerificates
-  - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/FSXGNWANCR4D)
+<br>
 
-5. Tech. Review
+### 3. Interests
 
-6. Book Review    
+<br>
+
+### 4. Cerificates
+    - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/FSXGNWANCR4D)
+<br>
+<br>
+
+### 5. Tech. Review
+
+<br>
+
+### 6. Book Review    
     
