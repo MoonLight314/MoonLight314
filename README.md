@@ -4,9 +4,11 @@
 <br>
 
 ### 1. About Me
-Name : Yi Chang Sic(이창식)
-Nationality , City : South Korea , Seoul
-I'm currently working as SW developer on HLDS(Hitachi-LG Data Storage)
+  * Name : Yi Chang Sic(이창식)
+  * Nationality , City : South Korea , Seoul
+  * I'm currently working as SW developer on HLDS(Hitachi-LG Data Storage)
+
+<br>
 <br>
 
 ### 2. Skills
@@ -56,6 +58,9 @@ ATA/ATAPI Command Protocol**
 <br>
 
 ### 5. Tech. Review
+- [Hand Gesture Detection - Rev #03](https://moonlight314.github.io/deep/learning/Hand_Gesture_Detection_Rev_03/)
+- [Hand Gesture Detection - Rev #02](https://moonlight314.github.io/deep/learning/Hand_Gesture_Detection_Rev_02/)
+- [Hand Gesture Detection - Rev #01](https://moonlight314.github.io/deep/learning/Hand_Gesture_Detection_Rev_01/)
 - [The Strategy of Transfer Learning & Fine Tunung](https://moonlight314.github.io/deep/learning/Transfer_Learning_Fine_Tuning/)
 - [Tensorflow Certificate](https://moonlight314.github.io/deep/learning/Tensorflow_Certificate/)
 - [All About LSTM](https://moonlight314.github.io/deep/learning/All_About_LSTM_KR/)
@@ -91,7 +96,12 @@ ATA/ATAPI Command Protocol**
 
 
 
-### 6. Book Review    
+### 6. Book Review
+* [비지니스 데이터 과학](https://moonlight314.github.io/deep/learning/Book_Review_Business_Data_Science/)
+* [구글 BERT의 정석 ( Getting Started With Google BERT )](https://moonlight314.github.io/deep/learning/Book_Review_-Getting_Started_With_Google_BERT/)
+* [구글 엔지니어는 이렇게 일한다 ( Software Engineering At Google )](https://moonlight314.github.io/deep/learning/Book_Review_Software_Engineering_At_Google/)
+* [Machine Learning At Working - 머신러닝 실무 프로젝트(2판)](https://moonlight314.github.io/deep/learning/Book_Review_Machine_Learning_At_Working/)
+* [Building Machine Learning Powered Applications](https://moonlight314.github.io/deep/learning/Book_Review_Building_Machine_Learning_Powered_Applications/)
 * [비전 시스템을 위한 딥러닝(Deep Learning For Vision System)](https://moonlight314.github.io/deep/learning/Book_Review_Deep_Learning_For_Vision_System/)
 <br>
 
