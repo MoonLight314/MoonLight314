@@ -3,7 +3,7 @@
 <br>
 <br>
 
-### 1. About Me
+## 1. About Me
   * Name : Yi Chang Sic(이창식)
   * Nationality , City : South Korea , Seoul
   * I'm currently working as SW developer on HLDS(Hitachi-LG Data Storage)
@@ -11,34 +11,57 @@
 <br>
 <br>
 
-### 2. Skills
-<img src="Machine_Learning.jpg" width="50" height="50"/>**Machine Learning**
-Deep Learning
-Natural Language Processing
-Computer Vision
-<br>
-**SW Development
-<br>
-Data Analysis
-Technical Support
-Data Structure / Algorithms
-Information / Network Security
-Embedded Software
-C / C++
-Java
-C#
-Android
-Python
-Digital Storage Device
-Network Programming
-Win32 API
-MFC
-SATA Protocol
-ATA/ATAPI Command Protocol**
+## 2. Skills
+<p float="left">
+  <img src="Machine_Learning.jpg" width="50" height="50"/>
+  <img src="Deep_Learning.jpg" width="50" height="50"/>
+  <img src="NLP.jpg" width="50" height="50"/>
+  <img src="Deep_Learning_Computer_Vision.jpg" width="50" height="50"/>
+  <img src="software-development.png" width="50" height="50"/>
+  <img src="Data Analysis.png" width="50" height="50"/>
+  <img src="Technical Support.jpg" width="50" height="50"/>
+  <img src="Data Structure Algorithms.jpg" width="50" height="50"/>
+  <img src="InformationNetwork Security.png" width="50" height="50"/>
+  <img src="Embedded Software.png" width="50" height="50"/>
+  <img src="C.jpg" width="50" height="50"/>
+  <img src="C++.png" width="50" height="50"/>
+  <img src="Java.png" width="50" height="50"/>
+  <img src="C_Sharp.png" width="50" height="50"/>
+  <img src="Android.png" width="50" height="50"/>
+  <img src="Python.png" width="50" height="50"/>
+  <img src="Digital Storage Device.png" width="50" height="50"/>
+  <img src="Network Programming.png" width="50" height="50"/>
+  <img src="Win32 API.jpg" width="50" height="50"/>
+  <img src="MFC.png" width="50" height="50"/>
+  <img src="SATA.png" width="50" height="50"/>
+  <img src="Command Protocol.png" width="50" height="50"/>
+</p>
+
+- **Machine Learning**
+- **Deep Learning**
+- **Natural Language Processing**
+- **Computer Vision**
+- **SW Development**
+- **Data Analysis**
+- **Technical Support**
+- **Data Structure / Algorithms**
+- **Information / Network Security**
+- **Embedded Software**
+- **C / C++**
+- **Java**
+- **C#**
+- **Android**
+- **Python**
+- **Digital Storage Device**
+- **Network Programming**
+- **Win32 API**
+- **MFC**
+- **SATA Protocol**
+- **ATA/ATAPI Command Protocol**
 
 <br>
 
-### 3. Interests
+## 3. Interests
 - Deep Learning
 - Computer Vision
 - Natural Language Processing
@@ -49,7 +72,7 @@ ATA/ATAPI Command Protocol**
 - 
 <br>
 
-### 4. Certifications
+## 4. Certifications
 * [Google Tensorflow Certificate](https://www.credential.net/bee24a43-10ea-40aa-b0ed-bbcab569944d)
 * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/FSXGNWANCR4D)
 * [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/6BTATF274DP5)
@@ -57,7 +80,7 @@ ATA/ATAPI Command Protocol**
 
 <br>
 
-### 5. Tech. Review
+## 5. Tech. Review
 - [Hand Gesture Detection - Rev #03](https://moonlight314.github.io/deep/learning/Hand_Gesture_Detection_Rev_03/)
 - [Hand Gesture Detection - Rev #02](https://moonlight314.github.io/deep/learning/Hand_Gesture_Detection_Rev_02/)
 - [Hand Gesture Detection - Rev #01](https://moonlight314.github.io/deep/learning/Hand_Gesture_Detection_Rev_01/)
@@ -96,7 +119,7 @@ ATA/ATAPI Command Protocol**
 
 
 
-### 6. Book Review
+## 6. Book Review
 * [비지니스 데이터 과학](https://moonlight314.github.io/deep/learning/Book_Review_Business_Data_Science/)
 * [구글 BERT의 정석 ( Getting Started With Google BERT )](https://moonlight314.github.io/deep/learning/Book_Review_-Getting_Started_With_Google_BERT/)
 * [구글 엔지니어는 이렇게 일한다 ( Software Engineering At Google )](https://moonlight314.github.io/deep/learning/Book_Review_Software_Engineering_At_Google/)
@@ -106,13 +129,13 @@ ATA/ATAPI Command Protocol**
 <br>
 
 
-### 7. Education
+## 7. Education
 Bachelor's degree
 Master’s degree 
 - Paper
 
 
-### 8. Contact
+## 8. Contact
 * E-Mail : <moonlight314@mensakorea.org>
 * LinkedIn : https://www.linkedin.com/in/chang-sic-yi-936867a5/
 * Git Blog : [**MoonLight's Blog**](https://moonlight314.github.io/)
