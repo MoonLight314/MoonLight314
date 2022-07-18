@@ -4,7 +4,9 @@
 <br>
 
 ### 1. About Me
-
+Name : Yi Chang Sic(이창식)
+Nationality , City : South Korea , Seoul
+I'm currently working as SW developer on HLDS(Hitachi-LG Data Storage)
 <br>
 
 ### 2. Skills
@@ -45,7 +47,7 @@ ATA/ATAPI Command Protocol**
 - 
 <br>
 
-### 4. Cerificates
+### 4. Certifications
 * [Google Tensorflow Certificate](https://www.credential.net/bee24a43-10ea-40aa-b0ed-bbcab569944d)
 * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/FSXGNWANCR4D)
 * [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/6BTATF274DP5)
@@ -54,7 +56,8 @@ ATA/ATAPI Command Protocol**
 <br>
 
 ### 5. Tech. Review
-
+- 
+- [Image Captioning](https://moonlight314.github.io/project/imagecaption/ImageCaptioning/)
 <br>
 
 
@@ -64,5 +67,13 @@ ATA/ATAPI Command Protocol**
 <br>
 
 
+### 7. Education
+Bachelor's degree
+Master’s degree 
+- Paper
 
-### 7. Contact
+
+### 8. Contact
+* E-Mail : <moonlight314@mensakorea.org>
+* LinkedIn : https://www.linkedin.com/in/chang-sic-yi-936867a5/
+* Git Blog : [**MoonLight's Blog**](https://moonlight314.github.io/)
