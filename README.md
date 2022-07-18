@@ -69,7 +69,7 @@
 - Kaggle
 - Gunpla
 - Algorithm
-- 
+
 <br>
 
 ## 4. Certifications
@@ -126,14 +126,18 @@
 * [Machine Learning At Working - 머신러닝 실무 프로젝트(2판)](https://moonlight314.github.io/deep/learning/Book_Review_Machine_Learning_At_Working/)
 * [Building Machine Learning Powered Applications](https://moonlight314.github.io/deep/learning/Book_Review_Building_Machine_Learning_Powered_Applications/)
 * [비전 시스템을 위한 딥러닝(Deep Learning For Vision System)](https://moonlight314.github.io/deep/learning/Book_Review_Deep_Learning_For_Vision_System/)
+
+<br>
 <br>
 
-
 ## 7. Education
-Bachelor's degree
-Master’s degree 
-- Paper
+Bachelor's degree : **Kyungpook National University - School of Electronic and Electrical Engineering**
 
+Master’s degree : **Sejong Cyber University - Information / Network Security**
+- Paper : [DDoS Detecting Model of Cloud Computing Environment](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=5df17676d0082897d18150b21a227875)
+
+<br>
+<br>
 
 ## 8. Contact
 * E-Mail : <moonlight314@mensakorea.org>
