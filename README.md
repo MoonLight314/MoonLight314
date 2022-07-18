@@ -10,26 +10,21 @@
 ### 2. Skills
 <img src="Machine_Learning.jpg" width="50" height="50"/>**Machine Learning**
 Deep Learning
-NLP
-컴퓨터 비전
+Natural Language Processing
+Computer Vision
 <br>
-**소프트웨어 개발
+**SW Development
 <br>
 Data Analysis
-Debugging
-기술지원
-Algorithms
-정보보안
-Network Security
+Technical Support
+Data Structure / Algorithms
+Information / Network Security
 Embedded Software
-C++
-C
+C / C++
 Java
 C#
 Android
-임베디드 시스템
 Python
-Programming Skill
 Digital Storage Device
 Network Programming
 Win32 API
@@ -40,7 +35,14 @@ ATA/ATAPI Command Protocol**
 <br>
 
 ### 3. Interests
-
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Machine Learning
+- Kaggle
+- Gunpla
+- Algorithm
+- 
 <br>
 
 ### 4. Cerificates
@@ -60,3 +62,7 @@ ATA/ATAPI Command Protocol**
 ### 6. Book Review    
 * [비전 시스템을 위한 딥러닝(Deep Learning For Vision System)](https://moonlight314.github.io/deep/learning/Book_Review_Deep_Learning_For_Vision_System/)
 <br>
+
+
+
+### 7. Contact
