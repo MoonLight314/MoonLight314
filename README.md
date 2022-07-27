@@ -81,6 +81,8 @@
 <br>
 
 ## 5. Tech. Review
+- [Age / Gender Detection](https://moonlight314.github.io/deep/learning/Age_Gender_Detection/)
+- [Mask Detection](https://moonlight314.github.io/deep/learning/Mask_Detection/)
 - [Hand Gesture Detection - Rev #03](https://moonlight314.github.io/deep/learning/Hand_Gesture_Detection_Rev_03/)
 - [Hand Gesture Detection - Rev #02](https://moonlight314.github.io/deep/learning/Hand_Gesture_Detection_Rev_02/)
 - [Hand Gesture Detection - Rev #01](https://moonlight314.github.io/deep/learning/Hand_Gesture_Detection_Rev_01/)
