@@ -81,6 +81,11 @@
 <br>
 
 ## 5. Tech. Review
+- [I3D - Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://moonlight314.github.io/deep/learning/I3D/)
+- [A Comprehensive Study of Deep Video Action Recognition](https://moonlight314.github.io/deep/learning/A_Comprehensive_Study_of_Deep_Video_Action_Recognition/)
+- [Deep Learning for 3D Point Clouds: A Survey](https://moonlight314.github.io/deep/learning/3D_Object_Detection/)
+- [PyTorch vs Tensorflow](https://moonlight314.github.io/deep/learning/PyTorch_VS_Tensorflow/)
+- [Kaggle : Paddy Disease Classification](https://moonlight314.github.io/deep/learning/Kaggle_Paddy_Disease_Classification/)
 - [Age / Gender Detection](https://moonlight314.github.io/deep/learning/Age_Gender_Detection/)
 - [Mask Detection](https://moonlight314.github.io/deep/learning/Mask_Detection/)
 - [Hand Gesture Detection - Rev #03](https://moonlight314.github.io/deep/learning/Hand_Gesture_Detection_Rev_03/)
@@ -122,6 +127,11 @@
 
 
 ## 6. Book Review
+* [트랜스포머를 활용한 자연어 처리](https://moonlight314.github.io/deep/learning/Book_Review_Natural_Language_Processing_With_Transformer/)
+* [소프트웨어 아키첵처 The Hard Parts](https://moonlight314.github.io/deep/learning/3D_Software_Architect_The_Hard_Parts/)
+* [파이썬 라이브러리를 활용한 텍스트 분석](https://moonlight314.github.io/deep/learning/Book_Review_Blueprints_for_Text_Analytics_using_Python/)
+* [김기현의 딥러닝 부트캠프 with 파이토치](https://moonlight314.github.io/deep/learning/Book_Review_Deep_Learning_Bootcamp_With_PyTorch/)
+* [고객을 끌어오는 구글 애널리틱스4](https://moonlight314.github.io/deep/learning/Book_Review_Google-Analytics/)
 * [비지니스 데이터 과학](https://moonlight314.github.io/deep/learning/Book_Review_Business_Data_Science/)
 * [구글 BERT의 정석 ( Getting Started With Google BERT )](https://moonlight314.github.io/deep/learning/Book_Review_-Getting_Started_With_Google_BERT/)
 * [구글 엔지니어는 이렇게 일한다 ( Software Engineering At Google )](https://moonlight314.github.io/deep/learning/Book_Review_Software_Engineering_At_Google/)
